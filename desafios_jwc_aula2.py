@@ -420,7 +420,7 @@
 # 4. Exiba o resultado formatado (f-string) na tela para o professor: 
 #    "Sistema JWC: O aluno [nome] fechou o ano com média [media]".
 
-# Código:
+# Código:py
 
 
 
